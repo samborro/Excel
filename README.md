@@ -1,4 +1,3 @@
-![revenue and profit by year](https://github.com/user-attachments/assets/2b191fb0-f319-4630-87e9-8a2be2dc653f)
 # Excel
 Using sales data downloaded in Excel, provide sales visualisations of this data by different categories.
 
