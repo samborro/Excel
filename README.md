@@ -18,7 +18,7 @@ For each category, I provided a PivotTable so you can see the raw numbers, as we
 
 ### Results
 
-![Revenue and Profit by Year](revenue and profit by year.png)
+![Revenue and Profit by Year](revenue and profit by year.jpg)
 ![Product Revenue by Country](product revenue by country.png)
 ![Revenue by Age Group](revenue by age group.png)
 
